@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="qimgv-all" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;E:\media\pics\girls\kpop&quot;" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Release-MinGW" RUN_TARGET_PROJECT_NAME="qimgv" RUN_TARGET_NAME="qimgv" EXPLICIT_BUILD_TARGET_NAME="all">
+    <envs>
+      <env name="QT_ASSUME_STDERR_HAS_CONSOLE" value="1 " />
+    </envs>
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
